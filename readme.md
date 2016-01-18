@@ -28,8 +28,8 @@ via `sox`.
 
 ## Credits
 
-Author: Weston Ruter, XWP
+Author: [Weston Ruter](https://weston.ruter.net/) ([@westonruter](https://twitter.com/westonruter)), [XWP](https://make.xwp.co).
 
-Work was derived from the [Listenability](https://wordpress.org/plugins/listenability/) project.
+Work derived from the [Listenability](https://wordpress.org/plugins/listenability/) project.
 
 License: GPLv2+
